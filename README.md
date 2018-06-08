@@ -1,1 +1,1 @@
-# duo-lingual
+# Duo-lingo
