@@ -105,12 +105,12 @@ div{
        align-items: center;
        margin-bottom: 20px;
        background: #EFF6EE;
-       width: 80%;
+       width: 100%;
        transition: 0.5s all;
        border-radius: 20px;
       &:hover{
         background-color: lightseagreen;
-        width:100%;
+        width:90%;
       } &:hover>a{
         color:#EFF6EE
       }

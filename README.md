@@ -1,1 +1,1 @@
-# Duo-lingo
+#VueJS cookie
